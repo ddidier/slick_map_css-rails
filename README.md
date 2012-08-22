@@ -4,6 +4,7 @@ A stylesheet for displaying site maps directly from HTML unordered list.
 This library is built upon [SlickMapCSS](http://astuteo.com/slickmap) and adds convenient features such as:
 
 * integration with the assets pipeline
+* TODO : add colors customization
 
 ## Installation
 
