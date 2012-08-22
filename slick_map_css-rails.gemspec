@@ -14,15 +14,32 @@ Gem::Specification.new do |s|
   s.email = "c_inconnu2@yahoo.fr"
   s.extra_rdoc_files = [
     "LICENSE.txt",
-    "README.rdoc"
+    "README.md"
   ]
   s.files = [
     ".document",
     "Gemfile",
+    "Gemfile.lock",
+    "Guardfile",
     "LICENSE.txt",
-    "README.rdoc",
+    "README.md",
     "Rakefile",
-    "lib/slick_map_css-rails.rb"
+    "VERSION",
+    "doc/index.html",
+    "lib/slick_map_css-rails.rb",
+    "lib/slick_map_css-rails/engine.rb",
+    "slick_map_css-rails.gemspec",
+    "spec/spec_helper.rb",
+    "vendor/assets/images/L1-center.png",
+    "vendor/assets/images/L1-left.png",
+    "vendor/assets/images/L1-right.png",
+    "vendor/assets/images/L3-bottom.png",
+    "vendor/assets/images/L3-center.png",
+    "vendor/assets/images/L3-li-top.png",
+    "vendor/assets/images/L3-ul-top.png",
+    "vendor/assets/images/vertical-line.png",
+    "vendor/assets/images/white-highlight.png",
+    "vendor/assets/stylesheets/slick_map_css-rails.css.scss"
   ]
   s.homepage = "http://github.com/ddidier/slick_map_css-rails"
   s.licenses = ["MIT"]
